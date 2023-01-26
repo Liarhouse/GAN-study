@@ -1,0 +1,13 @@
+names:
+- bench
+- grenade
+nc: 2
+roboflow:
+  license: MIT
+  project: final_project_test
+  url: https://universe.roboflow.com/deeplearning-vi8gq/final_project_test/dataset/5
+  version: 5
+  workspace: deeplearning-vi8gq
+test: D:\k-digital\source\GAN-study\final_project_test-5\test
+train: D:\k-digital\source\GAN-study\final_project_test-5\train
+val: D:\k-digital\source\GAN-study\final_project_test-5\val
